@@ -1,0 +1,4 @@
+ignore:
+  - '**/*.rb':
+    - Layout/MultilineOperationIndentation
+    - Layout/MultilineMethodCallIndentation
